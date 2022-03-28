@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Phase2Template {
+public class Inserter {
 	public static void main(String[] args){
 		//Make sure you didn't forget to pass the table name
 		if (args.length == 0){
